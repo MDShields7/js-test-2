@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ToDoList component when provided with an array of tasks should render correctly 1`] = `ShallowWrapper {}`;
